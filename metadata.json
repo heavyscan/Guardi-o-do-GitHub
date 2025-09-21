@@ -1,0 +1,5 @@
+{
+  "name": "Guardião do GitHub",
+  "description": "Uma ferramenta com IA para escanear repositórios do GitHub em busca de código malicioso e vulnerabilidades específicas da cadeia de suprimentos, incluindo o incidente fictício de setembro de 2025.",
+  "requestFramePermissions": []
+}
